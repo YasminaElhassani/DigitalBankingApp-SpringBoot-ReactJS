@@ -1,0 +1,7 @@
+id,account_number,agency_code,bank,bank_code,beneficiary_name,bank_key,rib,status,
+1,1234,123,Meezan,123,Afshal,123,f0cb8261-c6ec-4e50-b8da-0d236621d5c8,Signed,
+2,1234,123,Meezan,123,Afshal,123,5d1a99ca-caf2-4a91-a467-9b139416f2e8,Signed,
+3,123,123,123,123,Afshal,123,2d9dcd90-c944-4143-95a3-2e6de0e3a6a3,Signed,
+4,2222222,020,Habib,081,Sherial,123,1291651933249167425,Signed,
+5,081333010,020,World Bank,080,Arham,123,-6984171583748853918,Signed,
+6,123,123,123,123,VentureDive,123,269961769247880559,Enregister,
